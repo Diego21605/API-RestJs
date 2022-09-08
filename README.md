@@ -1,7 +1,7 @@
 # Proyecto Electiva de Profundización I - Creación de APIs
 
 ## Integrantes:
- Juan Donado [](https://github.com/).
+ Juan Donado [@juancdonado](https://github.com/juancdonado).
  Justyn Meza [](https://github.com/).
  Diego Fernandez [@Diego21605](https://github.com/Diego21605).
  

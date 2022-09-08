@@ -2,7 +2,7 @@
 
 ## Integrantes:
  Juan Donado [@juancdonado](https://github.com/juancdonado).
- Justyn Meza [](https://github.com/).
+ Justyn Meza [@justynMeza](https://github.com/justynmeza).
  Diego Fernandez [@Diego21605](https://github.com/Diego21605).
  
  # Sprint 1:

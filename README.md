@@ -8,8 +8,9 @@
  # Sprint 1:
  
  ## Historia de Usuario EP-001 
- 
- ![1](https://drive.google.com/file/d/1ppn3h-By99dpnxlWpm5RRRfAEkC8U_wE/view?usp=sharing)
+ <HTML>
+ <HTML>
+ ![Image text](https://drive.google.com/file/d/1ppn3h-By99dpnxlWpm5RRRfAEkC8U_wE/view?usp=sharing)
   ![2](https://drive.google.com/file/d/18dhZ-n1VnEzHlD-h77-n_RT3DhJ28WNA/view?usp=sharing)
   
   ## Historia Técnica EP-002 

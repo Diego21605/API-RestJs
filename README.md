@@ -9,9 +9,13 @@
  
  ## Historia de Usuario EP-001 
  
- ![1](https://drive.google.com/file/d/1ppn3h-By99dpnxlWpm5RRRfAEkC8U_wE/view?usp=sharing)
- ![2](https://drive.google.com/file/d/18dhZ-n1VnEzHlD-h77-n_RT3DhJ28WNA/view?usp=sharing)
+ ![1](https://user-images.githubusercontent.com/53822139/189217756-837ef565-0d53-426c-a8de-15c4ed60a2e4.jpeg)
+
+ ![2](https://user-images.githubusercontent.com/53822139/189217806-6241da24-acb8-4263-9a28-5241428112e8.jpeg)
+
+ 
   
   ## Historia Técnica EP-002 
 
-![3](https://drive.google.com/file/d/1v_-vP0S_5gQ_tQhfX0I8P8KnNSzPy6lg/view?usp=sharing)
+ ![3](https://user-images.githubusercontent.com/53822139/189219692-602d209e-61e1-432e-945d-94f0c38f2f2b.jpeg)
+

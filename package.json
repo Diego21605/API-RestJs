@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@nestjs/config": "^2.2.0",
+    "@nestjs/mapped-types": "^1.2.0",
+    "@nestjs/typeorm": "^9.0.1",
+    "@types/pg": "^8.6.5",
+    "crypto-js": "^4.1.1",
+    "pg": "^8.8.0",
+    "typeorm": "^0.3.10"
+  }
+}

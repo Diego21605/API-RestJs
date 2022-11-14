@@ -1,4 +1,8 @@
-import { Injectable, NotFoundException } from '@nestjs/common';
+import {
+  BadGatewayException,
+  Injectable,
+  NotFoundException,
+} from '@nestjs/common';
 import { CreateUserDto } from './dto/create-user.dto';
 import { UpdateUserDto } from './dto/update-user.dto';
 import { InjectRepository } from '@nestjs/typeorm';
@@ -10,10 +14,19 @@ import { MD5 } from 'crypto-js';
 export class UsersService {
   constructor(@InjectRepository(User) private userRepo: Repository<User>) {}
 
-  create(createUserDto: CreateUserDto) {
+  async create(createUserDto: CreateUserDto) {
+    const userExist = await this.findOneByEmail(createUserDto.email);
+    if (userExist) {
+      throw new BadGatewayException('Email already exist');
+    }
+
     const newUser = Object.assign({}, createUserDto);
     newUser.password = MD5(newUser.password).toString();
     return this.userRepo.save(newUser);
+  }
+
+  findOneByEmail(email: string) {
+    return this.userRepo.findOneBy({ email });
   }
 
   findAll() {
